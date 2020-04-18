@@ -6,7 +6,7 @@ public class Main {
 
     public void add(){
         //上传到github
-        //刷新第一次
+        //上传github第二次
         System.out.println("添加一个新的方法");
     }
 
